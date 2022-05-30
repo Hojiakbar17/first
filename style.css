@@ -33,8 +33,8 @@ h2{
 }
 
 .box>img{
-   width: 100%;
-   height: 100%;
+   width: 700px;
+   height: 500px;
    object-fit: cover;
    object-position: center;
 }
